@@ -1,13 +1,16 @@
 # recruit-simple-restapi
 
-[Install]
-
+Install
+-------------
 npm install
 
-[Run]
+
+Run
+-------------
 nodemon index.js
 
-[Usage]
 
+Usage
+-------------
 http://localhost:3000/license
 http://localhost:3000/public/img_pricing01.png
