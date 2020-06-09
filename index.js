@@ -4,7 +4,7 @@ var app = express();
 
 const license =[
 	    {
-		            imgLink : 'public/gimg_pricing01.png',
+		            imgLink : 'public/img_pricing01.png',
 		            title : "Pay-Per-View",
 		            text : "Usage-based billing for variable traffic to your commercial project.",
 		            priceM :"$1,000",
@@ -12,7 +12,7 @@ const license =[
 		            priceV : "$0.01"
 		  },
 	    {
-		            imgLink : 'public/gimg_pricing02.png',
+		            imgLink : 'public/img_pricing02.png',
 		            title : "Standard Bundle",
 		            text : "Includes a pre-paid bundle for standard traffic to your commercial project.",
 		            priceM :"$3,000",
@@ -20,7 +20,7 @@ const license =[
 		            priceV : "$0.01"
 		  },
 	    {
-		            imgLink : 'public/gimg_pricing03.png',
+		            imgLink : 'public/img_pricing03.png',
 		            title : "High Traffic PPV",
 		            text : "Significantly discounted usage-based billing for high volume traffic to your commercial project.",
 		            priceM :"$6,000",
@@ -28,7 +28,7 @@ const license =[
 		            priceV : "$0.0025"
 		  },
 	    {
-		            imgLink : 'public/gimg_pricing04.png',
+		            imgLink : 'public/img_pricing04.png',
 		            title : "High Traffic Bundle",
 		            text : "High Traffic usage-based discounts plus a 5-million-view pre-paid bundle for high volume traffic to your commercial project.",
 		            priceM :"$6,000",
